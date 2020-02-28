@@ -1,6 +1,6 @@
-//ChkUtils.cpp - Implementation file
+//JLNChkUtils.cpp - Implementation file
 
-#include "ChkUtils.h"
+#include "JLNChkUtils.h"
 
 using namespace std;
 

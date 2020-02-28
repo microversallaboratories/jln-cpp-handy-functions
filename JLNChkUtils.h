@@ -1,8 +1,8 @@
-//ChkUtils.h - header/interface file
+//JLNChkUtils.h - header/interface file
 
 //Use header guards
-#ifndef CHKUTILS_H
-#define CHKUTILS_H
+#ifndef JLNCHKUTILS_H
+#define JLNCHKUTILS_H
 
 //INCLUDE LIBRARIES
 #include <iostream>
